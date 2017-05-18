@@ -9,12 +9,13 @@ At first you need to call `npm install` in the project's main directory so all r
 Sample calls:
 
 ```
-node rta -i VIX
+node rta -i MCMLVI
 ```
 
 Script output:
 
 ```
-input: VIX
-output: 14
+input: MCMLVI
+output: 1956
+
 ```
